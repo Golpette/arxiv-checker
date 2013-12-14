@@ -1,0 +1,41 @@
+##############################################
+##
+## Enter any keywords/phrases you want to search for
+## here. It's not case-sensitive. They will be looked
+## for in the paper title, authors and abstract.
+##
+## Tip: if you are using vague words like "evolution"
+## make sure you comment out the arxiv areas in
+## "arxivPages.txt" that you don't want to search in.
+##
+## Tip: To improve your search chances, make multiple entries
+## like "topological insulator" and "topological-insulator"
+## or "Yang-Mills" and "Yang Mills"
+##
+## Tip: Multiple spellings will help too; like 
+## "optimisation" as well as "optimization".
+##
+## Comment anything out using a "#"...
+###############################################
+#disordered lattice
+#disordered system
+#non-equilibrium steady state
+#non-equilibrium steady-state
+#non-Markovian
+#discrete stochastic process
+#lattice model
+#spatial model
+#game theory
+#game-theory
+#contact process
+#driven system
+driven-system
+reaction diffusion
+reaction-diffusion
+driven dissipative
+Fisher wave
+Fisher-wave
+growing colony
+expanding colony
+epidemic
+infection

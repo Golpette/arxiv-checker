@@ -1,0 +1,46 @@
+##  This lists all arXiv pages as of 5/10/2013
+##  If you do not want to look for papers in
+##  any of the following areas, comment them out using
+##  a "##" at the start of the line.
+##
+####   Astrophysics
+http://arxiv.org/list/astro-ph/new
+####   Condensed Matter
+http://arxiv.org/list/cond-mat/new
+####  General Relativity and Quantum Cosmology
+http://arxiv.org/list/gr-qc/new
+####  High Energy Physics - Experiment
+http://arxiv.org/list/hep-ex/new
+####  HEP - Lattice
+http://arxiv.org/list/hep-lat/new
+####  HEP - Phenomenology
+http://arxiv.org/list/hep-ph/new
+####  HEP - Theory
+http://arxiv.org/list/hep-th/new
+####  Mathematical Physics
+http://arxiv.org/list/math-ph/new
+####  Nonlinear Sciences
+http://arxiv.org/list/nlin/new
+####  Nuclear Experiment
+http://arxiv.org/list/nucl-ex/new
+####  Nuclear Theory
+http://arxiv.org/list/nucl-th/new
+####  Physics
+http://arxiv.org/list/physics/new
+####  Quantum Physics
+http://arxiv.org/list/quant-ph/new
+####
+####  Mathematics
+http://arxiv.org/list/math/new
+####
+####  Computer Science
+http://arxiv.org/list/cs/new
+####
+####  Quantitative Biology
+http://arxiv.org/list/q-bio/new
+####
+####  Quantitative Finance
+http://arxiv.org/list/q-fin/new
+####
+####  Statistics
+http://arxiv.org/list/stat/new
